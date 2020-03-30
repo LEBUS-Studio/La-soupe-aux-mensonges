@@ -1,3 +1,4 @@
 - Ajouter un break avant le solo
 - Nouvelle rythmique electrique chorus
 - Refaire le solo
+- Changer l'effet sur la rythmique electrique (PRIORITE)
