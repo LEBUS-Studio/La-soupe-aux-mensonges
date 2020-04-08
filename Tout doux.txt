@@ -1,3 +1,2 @@
-- Nouvelle rythmique electrique chorus
-- Refaire le solo
+- Maybe ajout pour le chorus
 - Refaire la babasse
