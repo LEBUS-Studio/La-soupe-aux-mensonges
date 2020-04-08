@@ -1,4 +1,3 @@
-- Ajouter un break avant le solo
 - Nouvelle rythmique electrique chorus
 - Refaire le solo
 - Refaire la babasse
